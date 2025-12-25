@@ -11,6 +11,9 @@
 - [RabbitMq]
 - [Netty]
 - [Java Agent]
+- [Pyhton]
+- [RAG]
+- [AI Agent]
 
 ## 联系方式
 
